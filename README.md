@@ -1,2 +1,3 @@
 # hello-world
-HI everyone, I'm learning about GitHub
+Hi everyone, I'm learning about GitHub.
+And now adding a third line of information
